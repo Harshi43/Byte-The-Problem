@@ -1,2 +1,2 @@
-# Byte-The-Problem
+# EquiLens
 Bias Detection in AI Models
